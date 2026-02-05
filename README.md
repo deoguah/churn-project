@@ -85,11 +85,14 @@ churn-project/
 
 ```bash
 pip install -r requirements.txt
+```
 
 2. Run notebooks in order:
 01_eda_and_modeling.ipynb
 
 3. Run production script:
+```
 python src/train_model.py
+```
 
 Outputs (figures, metrics) will be saved in outputs/
