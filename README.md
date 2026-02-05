@@ -9,7 +9,7 @@ This project mirrors real-world workflows in data science teams, including data 
 ---
 
 ## Repository Structure
-'''
+```
 churn-project/
 ├── data/
 │ └── raw/ # Original CSV data
@@ -21,7 +21,7 @@ churn-project/
 │ └── metrics.json # Model performance metrics
 ├── README.md # This file
 └── requirements.txt # Python dependencies
-'''
+```
 
 ---
 
