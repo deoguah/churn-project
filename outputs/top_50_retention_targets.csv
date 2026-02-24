@@ -1,0 +1,51 @@
+tenure,MonthlyCharges,TotalCharges,tenure_bucket,gender,SeniorCitizen,Partner,Dependents,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,churn_true,churn_proba,high_risk,suggested_action
+1,69.6,69.6,0-5,Female,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,1,0.9750875241205922,1,Onboarding check-in + proactive support
+1,69.55,69.55,0-5,Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,1,0.9729671564365233,1,Onboarding check-in + proactive support
+1,69.25,69.25,0-5,Female,1,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,1,0.9728461281466743,1,Onboarding check-in + proactive support
+7,99.25,665.45,6-11,Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,1,0.9716588635862927,1,Offer plan optimization / discount bundle
+1,69.1,69.1,0-5,Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,1,0.9702898166426784,1,Onboarding check-in + proactive support
+7,98.05,713.0,6-11,Male,0,No,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),1,0.9618998424977758,1,Offer plan optimization / discount bundle
+1,69.5,69.5,0-5,Male,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),1,0.9613732248074488,1,Onboarding check-in + proactive support
+6,94.05,518.75,6-11,Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,0,0.9577847537432067,1,Offer plan optimization / discount bundle
+2,94.2,193.8,0-5,Female,0,No,Yes,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),1,0.9548426246722598,1,Onboarding check-in + proactive support
+1,77.15,77.15,0-5,Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,1,0.9548025121832134,1,Onboarding check-in + proactive support
+1,79.35,79.35,0-5,Female,0,Yes,No,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),1,0.9542916581271642,1,Onboarding check-in + proactive support
+1,76.45,76.45,0-5,Male,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,1,0.9508883819754874,1,Onboarding check-in + proactive support
+1,90.85,90.85,0-5,Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),1,0.9486813200572808,1,Onboarding check-in + proactive support
+1,78.8,78.8,0-5,Female,0,Yes,No,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,1,0.9479146594511372,1,Onboarding check-in + proactive support
+1,85.05,85.05,0-5,Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,1,0.9410469965026846,1,Onboarding check-in + proactive support
+9,99.3,918.75,6-11,Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,0.9402937714045759,1,Offer plan optimization / discount bundle
+2,30.4,78.65,0-5,Female,1,No,No,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,1,0.9390893639128259,1,Onboarding check-in + proactive support
+1,79.15,79.15,0-5,Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,0,0.9384285432161841,1,Onboarding check-in + proactive support
+1,95.45,95.45,0-5,Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,1,0.9384162599482111,1,Onboarding check-in + proactive support
+1,95.1,95.1,0-5,Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,1,0.9369446618601498,1,Onboarding check-in + proactive support
+1,76.35,76.35,0-5,Female,0,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,1,0.9354294761157534,1,Onboarding check-in + proactive support
+2,84.05,186.05,0-5,Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0,0.9330400437518229,1,Onboarding check-in + proactive support
+4,99.8,442.85,0-5,Female,1,No,No,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),1,0.9287589007600535,1,Onboarding check-in + proactive support
+1,79.5,79.5,0-5,Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,1,0.9191616452108013,1,Onboarding check-in + proactive support
+6,90.75,512.25,6-11,Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,0,0.9166822256762759,1,Offer plan optimization / discount bundle
+11,111.4,1183.05,6-11,Male,1,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.9165155636553177,1,Offer plan optimization / discount bundle
+2,85.7,169.8,0-5,Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,1,0.9163676193738265,1,Onboarding check-in + proactive support
+3,105.9,334.65,0-5,Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,1,0.9100241450688478,1,Onboarding check-in + proactive support
+1,75.7,75.7,0-5,Female,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,1,0.9046599289409808,1,Onboarding check-in + proactive support
+1,80.05,80.05,0-5,Female,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,1,0.9035575793905385,1,Onboarding check-in + proactive support
+7,94.1,701.3,6-11,Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.9012061598276516,1,Offer plan optimization / discount bundle
+1,35.55,35.55,0-5,Male,0,No,No,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,1,0.9004557822199274,1,Onboarding check-in + proactive support
+8,100.15,908.55,6-11,Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,0.8986401190585863,1,Offer plan optimization / discount bundle
+3,41.15,132.2,0-5,Male,1,No,No,No,No phone service,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,1,0.8959901599370087,1,Onboarding check-in + proactive support
+2,91.45,171.45,0-5,Male,0,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,0,0.8956211007218453,1,Onboarding check-in + proactive support
+1,80.0,80.0,0-5,Male,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,1,0.8940296201471621,1,Onboarding check-in + proactive support
+1,85.0,85.0,0-5,Female,1,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,1,0.8858187197415412,1,Onboarding check-in + proactive support
+9,90.1,816.8,6-11,Female,1,No,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,0,0.8850055829102241,1,Offer plan optimization / discount bundle
+1,74.5,74.5,0-5,Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,1,0.8825136882849925,1,Onboarding check-in + proactive support
+7,101.95,700.85,6-11,Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,1,0.8785960189899327,1,Offer plan optimization / discount bundle
+1,25.05,25.05,0-5,Male,1,Yes,No,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,1,0.8767911449113365,1,Onboarding check-in + proactive support
+1,74.25,74.25,0-5,Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,1,0.8724457301831424,1,Onboarding check-in + proactive support
+1,84.85,84.85,0-5,Male,0,No,No,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,1,0.8716926054683938,1,Onboarding check-in + proactive support
+1,74.5,74.5,0-5,Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,1,0.8714497831495637,1,Onboarding check-in + proactive support
+3,105.35,323.25,0-5,Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),1,0.8709781150954568,1,Onboarding check-in + proactive support
+6,105.3,545.2,6-11,Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,1,0.8708079206605936,1,Offer plan optimization / discount bundle
+11,95.15,997.65,6-11,Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),1,0.8707188621319206,1,Offer plan optimization / discount bundle
+1,85.0,85.0,0-5,Male,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,0,0.8589795640078746,1,Onboarding check-in + proactive support
+1,25.2,25.2,0-5,Female,1,No,No,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,1,0.8587824858077976,1,Onboarding check-in + proactive support
+4,93.5,362.2,0-5,Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,1,0.8566867514087896,1,Onboarding check-in + proactive support

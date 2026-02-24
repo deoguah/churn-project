@@ -1,0 +1,51 @@
+feature,coef
+Contract_Month-to-month,0.717672593132082
+tenure_bucket_0-5,0.5959455587514637
+InternetService_Fiber optic,0.5834963467154681
+PaymentMethod_Electronic check,0.22699764800114286
+StreamingMovies_Yes,0.22197121496934272
+StreamingTV_Yes,0.21701228760444294
+OnlineSecurity_No,0.19607703716292263
+TechSupport_No,0.17059050146278137
+SeniorCitizen,0.15380816799429486
+MultipleLines_Yes,0.14115836479652644
+PaperlessBilling_Yes,0.12569878526838882
+OnlineBackup_No,0.09187558435698265
+DeviceProtection_Yes,0.0582661825483344
+Dependents_No,0.03406127211992544
+DeviceProtection_No,0.005806256557414317
+TotalCharges,1.5936311978166887e-05
+Contract_One year,-0.00022188900981501974
+MonthlyCharges,-0.0077819628999292335
+PhoneService_No,-0.02071586078935809
+MultipleLines_No phone service,-0.02071586078935809
+tenure,-0.02374166106842141
+OnlineBackup_Yes,-0.027803145241144363
+Partner_Yes,-0.045444015997808535
+tenure_bucket_6-11,-0.04972099882672963
+gender_Male,-0.05843347767049906
+gender_Female,-0.07948970110674182
+Partner_No,-0.09247916283252934
+PaymentMethod_Mailed check,-0.0951808390711745
+TechSupport_Yes,-0.10651806240097694
+PhoneService_Yes,-0.11720731805352975
+PaymentMethod_Bank transfer (automatic),-0.12048551581455513
+OnlineSecurity_Yes,-0.1320045981483719
+tenure_bucket_48+,-0.144171377665737
+PaymentMethod_Credit card (automatic),-0.14925447196023864
+StreamingTV_No,-0.15293984845022107
+StreamingMovies_No,-0.15789877585662723
+Dependents_Yes,-0.17198445093171563
+OnlineBackup_No internet service,-0.20199561791546183
+StreamingMovies_No internet service,-0.20199561791546183
+TechSupport_No internet service,-0.20199561791546183
+OnlineSecurity_No internet service,-0.20199561791546183
+InternetService_No,-0.20199561791546183
+StreamingTV_No internet service,-0.20199561791546183
+DeviceProtection_No internet service,-0.20199561791546183
+tenure_bucket_12-23,-0.22300812382225865
+MultipleLines_No,-0.2583656828497941
+PaperlessBilling_No,-0.2636219641101174
+tenure_bucket_24-47,-0.3169682372968217
+InternetService_DSL,-0.5194239077251934
+Contract_Two year,-0.8553738828266506
