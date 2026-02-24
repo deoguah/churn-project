@@ -10,17 +10,32 @@ This project mirrors real-world workflows in data science teams, including data 
 
 ## Repository Structure
 ```
-churn-project/
+churn_project/
 ├── data/
-│ └── raw/ # Original CSV data
-├── sql/ # SQL scripts for creating modeling tables
-├── notebooks/ # Jupyter notebooks for analysis and modeling
-├── src/ # Python scripts for production-ready code
+│   └── Telco-Customer-Churn.csv
+│
+├── sql/
+│   └── 01_build_modeling_table.sql
+│
+├── notebooks/
+│   └── 01_eda_and_modeling.ipynb
+│
+├── src/
+│   └── train_model.py
+│
 ├── outputs/
-│ ├── figures/ # Charts, graphs, and visualizations
-│ └── metrics.json # Model performance metrics
-├── README.md # This file
-└── requirements.txt # Python dependencies
+│   ├── figures/
+│   │   ├── monthlycharges_hist.png
+│   │   ├── churn_by_contract.png
+│   │   └── churn_by_tenure_bucket.png
+│   │
+│   ├── metrics.json
+│   ├── logreg_coefficients.csv
+│   ├── top_50_retention_targets.csv
+│   └── churn.db
+│
+├── README.md
+└── requirements.txt
 ```
 
 ---
